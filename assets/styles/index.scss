@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;535;600&family=Raleway:ital@1&display=swap');
+@import 'modules/variables';
+@import 'modules/mixins';
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    box-sizing: content-box;
+    font-family: 'Quicksand', sans-serif;
+    background-color: $fondo-body;
+
+}
+
+.container{
+    .navbar-container{
+        @include navbarContainer;
+    }
+    .presentation-container{
+        @include presentationContainer;
+    }
+    .services-container{
+        @include servicesContainer;
+    }
+    .specializedTreadment-container{
+        @include specializedTreadmentContainer;
+    }
+    .comments-container{
+        @include commentsContainer;
+    }
+    .businessInfo-container{
+        @include businessInfoContainer;
+    }
+    .footer-container{
+        @include footerContainer;
+    }
+}
+
+@media screen and(max-width:1123px){
+    @include container-1123;
+}
+@media screen and(max-width:1060px){
+    @include container-1060;
+}
+@media screen and(max-width:660px){
+    @include container-660;
+}

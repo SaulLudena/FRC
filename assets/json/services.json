@@ -1,0 +1,31 @@
+{
+    "services":[
+        {"Name" : "Fisioterápia traumatológica","Message" : "Hola, me interesa la terapia traumatológica"},
+        {"Name" : "Fisioterápia deportiva","Message" : "Hola, me interesa la terapia deportiva"},
+        {"Name" : "Fisioterápia neurológica","Message" : "Hola, me interesa la terapia neurológica"},
+        {"Name" : "Fisioterápia reumatológica","Message" : "Hola, me interesa la terapia reumatológica"},
+        {"Name" : "Fisioterápia postural","Message" : "Hola, me interesa la terapia postural"},
+        {"Name" : "Fisioterápia pre y post quirúrgica","Message" : "Hola, me interesa la terapia pre y post quirúrgica"},
+        {"Name" : "Fisioterápia antiestres","Message" : "Hola, me interesa la terapia antiestres"},
+        {"Name" : "Fisioterápia a domicilio","Message" : "Hola, me interesa la terapia a domicilio"}
+    ],
+    "specialized_treatments":[
+        {"Name" : "Termoterapia","Message" : "Hola, me interesa la termoterapia"},
+        {"Name" : "Crioterapia","Message" : "Hola, me interesa la crioterapia"},
+        {"Name" : "Terapia combinada","Message" : "Hola, me interesa la terapia combinada"},
+        {"Name" : "Electroterapia","Message" : "Hola, me interesa la electroterapia"},
+        {"Name" : "Ultrasonido","Message" : "Hola, me interesa el ultrasonido"},
+        {"Name" : "Magnetoterapia","Message" : "Hola, me interesa la magnetoterapia"},
+        {"Name" : "Parafina","Message" : "Hola, me interesa la parafina"},
+        {"Name" : "Laserterapia","Message" : "Hola, me interesa la laserterapia"},
+        {"Name" : "Terapia manual","Message" : "Hola, me interesa la terapia manual"},
+        {"Name" : "Kinesioterapia","Message" : "Hola, me interesa la kinesioterapia"},
+        {"Name" : "Kinesiotape","Message" : "Hola, me interesa la kinesiotape"},
+        {"Name" : "Punción seca","Message" : "Hola, me interesa la punción seca"}
+    ],
+    "comments":[
+        {"Description" : "Sentía dolores en la espalda a raíz de las clases online pero gracias a fisio rehab center me siento mejor", "Author": "Daniel Rojas", "imgURL": "https://image.shutterstock.com/image-photo/portrait-mature-businessman-wearing-glasses-260nw-738242395.jpg"},
+        {"Description" : "Sufrí un accidente en bicicleta y no pude caminar por 4 meses hasta que visité fisio rehab center", "Author": "Rodrigo Angel", "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7y6bqoR4ypvuCak8H_ZVl7oqspxE6MxK3g&usqp=CAU"},
+        {"Description" : "Tengo 62 años y la vejez me hizo sentir dolores en la columna, pero Fisio rehab center me ayudó mucho", "Author": "Mercedez María", "imgURL":"https://www.kindpng.com/picc/m/92-923630_old-woman-royalty-free-png-old-woman-png.png"} 
+    ]
+}
