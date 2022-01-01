@@ -19,7 +19,7 @@ const c_container = document.getElementById("c-container");
 
 
 /*-----Estructura de fetch API----- */
-fetch("/assets/json/services.json")
+fetch("assets/json/services.json")
 //promesa 1: transformar la respuesta a Json
 .then((response)=>{
     return response.json();
